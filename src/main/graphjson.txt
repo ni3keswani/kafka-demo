@@ -1,0 +1,215 @@
+[
+  {
+    "id": "6fbb19e2-23cf-4c73-99cd-dfa42e3b3031",
+    "label": "ni3",
+    "type": "vertex",
+    "properties": {
+      "akey": [
+        {
+          "id": "6fbb19e2-23cf-4c73-99cd-dfa42e3b3031|akey",
+          "value": "try"
+        }
+      ],
+      "name": [
+        {
+          "id": "9ba43ce1-9877-42a7-9e11-54f42db6d3f3",
+          "value": "ni3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cf52325d-c582-48f4-a3a5-9b9c5ad92081",
+    "label": "apurva",
+    "type": "vertex",
+    "properties": {
+      "akey": [
+        {
+          "id": "cf52325d-c582-48f4-a3a5-9b9c5ad92081|akey",
+          "value": "try"
+        }
+      ],
+      "name": [
+        {
+          "id": "7030e5ba-527e-41be-beb3-a575f5a670fb",
+          "value": "apurva"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "label": "person",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "922b2fbc-32e8-479a-8c86-85c8bbdd5342",
+          "value": "marko"
+        }
+      ],
+      "age": [
+        {
+          "id": "dbbb534b-6517-463e-a93e-a4a0778e163c",
+          "value": 29
+        }
+      ],
+      "akey": [
+        {
+          "id": "1|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "ee5474bc-03f0-465d-9e91-ed72c842aebe",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "f8f5d9dd-fa81-48e4-91fe-f23075b3e7e4",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "3|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "a5ba9ea7-3867-4051-97a6-2710f53b4643",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "43bc3c69-d796-4343-97b2-517610bc331d",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "4|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "b595f62a-8959-4f89-815e-42e80c1c61f9",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "3c00d107-4cba-4a49-a02f-70bfebbbc581",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "5|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "dfb4a879-8023-4b09-a774-212b80d6a6f2",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "612dc072-3e51-46e5-a24a-fddd7202bb41",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "6|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "1c9ddfc4-1701-4b37-af1c-01cc3cf93a5a",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "8f560444-6b37-4118-8784-e19cf19bfb8c",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "7|akey",
+          "value": "try"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "label": "software",
+    "type": "vertex",
+    "properties": {
+      "name": [
+        {
+          "id": "05b176a3-1886-4c0a-ba9b-a0759e531da2",
+          "value": "lop"
+        }
+      ],
+      "lang": [
+        {
+          "id": "b4cbfd02-db5f-4eff-802c-b6fac9588177",
+          "value": "java"
+        }
+      ],
+      "akey": [
+        {
+          "id": "8|akey",
+          "value": "try"
+        }
+      ]
+    }
+  }
+]
